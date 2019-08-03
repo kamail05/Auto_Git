@@ -79,7 +79,7 @@ class AppleOrder(BasePage):
         #                  stderr=subprocess.PIPE,shell=True).communicate()
         # os.system("D:\workspace selenium\AutoIT\FileUploadScript.exe")
         os.startfile("D:\workspace selenium\AutoIT\FileUploadScript.exe")
-        time.sleep(10)
+        time.sleep(5)
         fileuploadalert = self.driver.switch_to.alert
         fileuploadalert.accept()
 
