@@ -73,7 +73,7 @@ class DesktopOrder(BasePage):
             actions = ActionChains(self.driver)
             actions.move_to_element(element).perform()
             self.log.info("Mouse Hovered on element ",element)
-            time.sleep(2)
+            time.sleep(3)
             topLink = self.driver.find_element(By.XPATH, itemToClickLocator)
             actions.move_to_element(topLink).click().perform()
             self.log.info(topLink,"Sub-menu Clicked")
