@@ -4,8 +4,10 @@ import logging
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import Select
 import os
+import os.path
 import time
 import subprocess
+
 
 class AppleOrder(BasePage):
 
@@ -93,6 +95,8 @@ class AppleOrder(BasePage):
         time.sleep(10)
         self.elementClick(locator=self._time,locatorType='xpath')
         self.elementClick(locator=self._timefield,locatorType='xpath')
+        # a = os.path.isfile('File Path')
+
 
     def setdateandtime(self):
         self.elementClick(locator=self._dateandtimefield,locatorType='xpath')

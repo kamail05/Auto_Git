@@ -497,3 +497,797 @@
 07/18/2019 09:23:34 PM - ResultStatus - ERROR: ### VERIFICATION FAILED :: + Order Verification
 07/18/2019 09:23:34 PM - ResultStatus - INFO: Screenshot save to directory: C:\Users\Abilash\PycharmProjects\AT\base\../screenshots/Order Verification.1563465214553.png
 07/18/2019 09:23:34 PM - ResultStatus - ERROR: Verifying the order placed successfully ### TEST FAILED
+08/10/2019 07:23:22 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/10/2019 07:23:22 PM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/10/2019 07:23:22 PM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/10/2019 07:23:23 PM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/10/2019 07:23:23 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/10/2019 07:23:23 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/10/2019 07:23:23 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/10/2019 07:23:23 PM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/10/2019 07:23:23 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/10/2019 07:23:23 PM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/10/2019 07:23:23 PM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/10/2019 07:23:25 PM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/10/2019 07:23:27 PM - AppleOrder - INFO: Element found with locator: //li[contains(@class,'dropdown')]/a[contains(text(),'Desktops')] and  locatorType: xpath
+08/10/2019 07:23:28 PM - AppleOrder - INFO: Element found with locator: //a[contains(text(),'Show All Desktops')] and  locatorType: xpath
+08/10/2019 07:23:31 PM - AppleOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] and  locatorType: xpath
+08/10/2019 07:23:40 PM - AppleOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] locatorType: xpath
+08/10/2019 07:23:40 PM - AppleOrder - INFO: Element found with locator: //div[@id='input-option218']//div[2]//label[1] and  locatorType: xpath
+08/10/2019 07:23:40 PM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option218']//div[2]//label[1] locatorType: xpath
+08/10/2019 07:23:40 PM - AppleOrder - INFO: Element found with locator: //div[@id='input-option223']//div[2]//label[1] and  locatorType: xpath
+08/10/2019 07:23:40 PM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option223']//div[2]//label[1] locatorType: xpath
+08/10/2019 07:23:40 PM - AppleOrder - INFO: Element found with locator: input-option208 and  locatorType: id
+08/10/2019 07:23:40 PM - AppleOrder - INFO: Sent data on element with locator: input-option208 locatorType: id
+08/10/2019 07:23:40 PM - AppleOrder - INFO: Element found with locator: //select[@id='input-option217'] and  locatorType: xpath
+08/10/2019 07:23:41 PM - AppleOrder - INFO: Element found with locator: input-option209 and  locatorType: id
+08/10/2019 07:23:41 PM - AppleOrder - INFO: Sent data on element with locator: input-option209 locatorType: id
+08/10/2019 07:24:03 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/10/2019 07:24:03 PM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/10/2019 07:24:03 PM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/10/2019 07:24:04 PM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/10/2019 07:24:04 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/10/2019 07:24:04 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/10/2019 07:24:04 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/10/2019 07:24:04 PM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/10/2019 07:24:04 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/10/2019 07:24:04 PM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/10/2019 07:24:04 PM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/10/2019 07:24:06 PM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/10/2019 07:24:14 PM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+08/10/2019 07:24:14 PM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+08/10/2019 07:24:14 PM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+08/10/2019 07:24:15 PM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+08/10/2019 07:24:15 PM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+08/10/2019 07:24:15 PM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/10/2019 07:24:16 PM - DesktopOrder - INFO: Element appeared on the web page
+08/10/2019 07:24:16 PM - DesktopOrder - INFO: Element is displayed
+08/10/2019 07:24:16 PM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+08/10/2019 07:24:16 PM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+08/10/2019 07:24:16 PM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+08/10/2019 07:24:16 PM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+08/10/2019 07:24:16 PM - DesktopOrder - INFO: Clicked on element with locator: //span[@id='cart-total'] locatorType: xpath
+08/10/2019 07:24:16 PM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+08/10/2019 07:24:17 PM - DesktopOrder - INFO: Cannot click on the element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+08/10/2019 07:24:20 PM - DesktopOrder - INFO: Element not found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+08/10/2019 07:24:20 PM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+08/10/2019 07:24:23 PM - DesktopOrder - INFO: Element not found with locator: input-country and  locatorType: id
+08/10/2019 07:24:34 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/10/2019 07:24:34 PM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/10/2019 07:24:34 PM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/10/2019 07:24:35 PM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/10/2019 07:24:35 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/10/2019 07:24:35 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/10/2019 07:24:35 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/10/2019 07:24:35 PM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/10/2019 07:24:35 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/10/2019 07:24:35 PM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/10/2019 07:24:35 PM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/10/2019 07:24:37 PM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/10/2019 07:24:39 PM - RegisterAccount - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/10/2019 07:24:39 PM - RegisterAccount - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/10/2019 07:24:44 PM - RegisterAccount - INFO: Element not found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Register')] and  locatorType: xpath
+08/10/2019 07:24:44 PM - RegisterAccount - INFO: Cannot click on the element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Register')] locatorType: xpath
+08/10/2019 07:24:47 PM - RegisterAccount - INFO: Element not found with locator: input-firstname and  locatorType: id
+08/10/2019 07:24:47 PM - RegisterAccount - INFO: Cannot send data on the element with locator: input-firstname locatorType: id
+08/10/2019 07:24:50 PM - RegisterAccount - INFO: Element not found with locator: input-lastname and  locatorType: id
+08/10/2019 07:24:50 PM - RegisterAccount - INFO: Cannot send data on the element with locator: input-lastname locatorType: id
+08/10/2019 07:24:53 PM - RegisterAccount - INFO: Element not found with locator: input-email and  locatorType: id
+08/10/2019 07:24:53 PM - RegisterAccount - INFO: Cannot send data on the element with locator: input-email locatorType: id
+08/10/2019 07:24:56 PM - RegisterAccount - INFO: Element not found with locator: input-telephone and  locatorType: id
+08/10/2019 07:24:56 PM - RegisterAccount - INFO: Cannot send data on the element with locator: input-telephone locatorType: id
+08/10/2019 07:24:59 PM - RegisterAccount - INFO: Element not found with locator: input-password and  locatorType: id
+08/10/2019 07:24:59 PM - RegisterAccount - INFO: Cannot send data on the element with locator: input-password locatorType: id
+08/10/2019 07:25:02 PM - RegisterAccount - INFO: Element not found with locator: input-confirm and  locatorType: id
+08/10/2019 07:25:02 PM - RegisterAccount - INFO: Cannot send data on the element with locator: input-confirm locatorType: id
+08/10/2019 07:25:05 PM - RegisterAccount - INFO: Element not found with locator: //div[@class='form-group']//div[@class='col-sm-10']//label[1] and  locatorType: xpath
+08/10/2019 07:25:05 PM - RegisterAccount - INFO: Cannot click on the element with locator: //div[@class='form-group']//div[@class='col-sm-10']//label[1] locatorType: xpath
+08/10/2019 07:25:08 PM - RegisterAccount - INFO: Element not found with locator: agree and  locatorType: name
+08/10/2019 07:25:08 PM - RegisterAccount - INFO: Cannot click on the element with locator: agree locatorType: name
+08/10/2019 07:25:11 PM - RegisterAccount - INFO: Element not found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/10/2019 07:25:11 PM - RegisterAccount - INFO: Cannot click on the element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/10/2019 07:25:11 PM - RegisterAccount - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/10/2019 07:25:22 PM - RegisterAccount - INFO: Element not appeared on the web page
+08/10/2019 07:25:22 PM - RegisterAccount - INFO: Element not displayed
+08/10/2019 07:25:22 PM - ResultStatus - ERROR: ### VERIFICATION FAILED :: + Successfull
+08/10/2019 07:25:23 PM - ResultStatus - INFO: Screenshot save to directory: C:\Users\Abilash\PycharmProjects\Auto_Git\base\../screenshots/Successfull.1565445322605.png
+08/10/2019 07:25:23 PM - ResultStatus - ERROR: New Account Creation ### TEST FAILED
+08/10/2019 07:25:37 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/10/2019 07:25:37 PM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/10/2019 07:25:37 PM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/10/2019 07:25:37 PM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/10/2019 07:25:38 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/10/2019 07:25:38 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/10/2019 07:25:38 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/10/2019 07:25:38 PM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/10/2019 07:25:38 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/10/2019 07:25:38 PM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/10/2019 07:25:38 PM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/10/2019 07:25:40 PM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/10/2019 07:26:11 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/10/2019 07:26:11 PM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/10/2019 07:26:11 PM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/10/2019 07:26:12 PM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/10/2019 07:26:12 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/10/2019 07:26:13 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/10/2019 07:26:13 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/10/2019 07:26:13 PM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/10/2019 07:26:13 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/10/2019 07:26:13 PM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/10/2019 07:26:13 PM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/10/2019 07:26:15 PM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/11/2019 05:35:52 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/11/2019 05:35:53 PM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/11/2019 05:35:53 PM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/11/2019 05:35:54 PM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/11/2019 05:35:54 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/11/2019 05:35:54 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/11/2019 05:35:54 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/11/2019 05:35:55 PM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/11/2019 05:35:55 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/11/2019 05:35:55 PM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/11/2019 05:35:55 PM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/11/2019 05:35:56 PM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/11/2019 05:35:58 PM - AppleOrder - INFO: Element found with locator: //li[contains(@class,'dropdown')]/a[contains(text(),'Desktops')] and  locatorType: xpath
+08/11/2019 05:35:59 PM - AppleOrder - INFO: Element found with locator: //a[contains(text(),'Show All Desktops')] and  locatorType: xpath
+08/11/2019 05:36:01 PM - AppleOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] and  locatorType: xpath
+08/11/2019 05:36:05 PM - AppleOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] locatorType: xpath
+08/11/2019 05:36:05 PM - AppleOrder - INFO: Element found with locator: //div[@id='input-option218']//div[2]//label[1] and  locatorType: xpath
+08/11/2019 05:36:06 PM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option218']//div[2]//label[1] locatorType: xpath
+08/11/2019 05:36:06 PM - AppleOrder - INFO: Element found with locator: //div[@id='input-option223']//div[2]//label[1] and  locatorType: xpath
+08/11/2019 05:36:06 PM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option223']//div[2]//label[1] locatorType: xpath
+08/11/2019 05:36:06 PM - AppleOrder - INFO: Element found with locator: input-option208 and  locatorType: id
+08/11/2019 05:36:06 PM - AppleOrder - INFO: Sent data on element with locator: input-option208 locatorType: id
+08/11/2019 05:36:06 PM - AppleOrder - INFO: Element found with locator: //select[@id='input-option217'] and  locatorType: xpath
+08/11/2019 05:36:06 PM - AppleOrder - INFO: Element found with locator: input-option209 and  locatorType: id
+08/11/2019 05:36:07 PM - AppleOrder - INFO: Sent data on element with locator: input-option209 locatorType: id
+08/11/2019 05:36:26 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/11/2019 05:36:26 PM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/11/2019 05:36:26 PM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/11/2019 05:36:27 PM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/11/2019 05:36:27 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/11/2019 05:36:27 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/11/2019 05:36:27 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/11/2019 05:36:28 PM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/11/2019 05:36:28 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/11/2019 05:36:28 PM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/11/2019 05:36:28 PM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/11/2019 05:36:29 PM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/11/2019 05:36:31 PM - AppleOrder - INFO: Element found with locator: //li[contains(@class,'dropdown')]/a[contains(text(),'Desktops')] and  locatorType: xpath
+08/11/2019 05:36:31 PM - AppleOrder - INFO: Element found with locator: //a[contains(text(),'Show All Desktops')] and  locatorType: xpath
+08/11/2019 05:36:34 PM - AppleOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] and  locatorType: xpath
+08/11/2019 05:36:38 PM - AppleOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] locatorType: xpath
+08/11/2019 05:36:38 PM - AppleOrder - INFO: Element found with locator: //div[@id='input-option218']//div[2]//label[1] and  locatorType: xpath
+08/11/2019 05:36:38 PM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option218']//div[2]//label[1] locatorType: xpath
+08/11/2019 05:36:38 PM - AppleOrder - INFO: Element found with locator: //div[@id='input-option223']//div[2]//label[1] and  locatorType: xpath
+08/11/2019 05:36:38 PM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option223']//div[2]//label[1] locatorType: xpath
+08/11/2019 05:36:38 PM - AppleOrder - INFO: Element found with locator: input-option208 and  locatorType: id
+08/11/2019 05:36:39 PM - AppleOrder - INFO: Sent data on element with locator: input-option208 locatorType: id
+08/11/2019 05:36:39 PM - AppleOrder - INFO: Element found with locator: //select[@id='input-option217'] and  locatorType: xpath
+08/11/2019 05:36:39 PM - AppleOrder - INFO: Element found with locator: input-option209 and  locatorType: id
+08/11/2019 05:36:39 PM - AppleOrder - INFO: Sent data on element with locator: input-option209 locatorType: id
+08/11/2019 05:36:56 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/11/2019 05:36:56 PM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/11/2019 05:36:56 PM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/11/2019 05:36:57 PM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/11/2019 05:36:57 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/11/2019 05:36:57 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/11/2019 05:36:57 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/11/2019 05:36:57 PM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/11/2019 05:36:57 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/11/2019 05:36:57 PM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/11/2019 05:36:58 PM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/11/2019 05:36:59 PM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/11/2019 05:37:01 PM - AppleOrder - INFO: Element found with locator: //li[contains(@class,'dropdown')]/a[contains(text(),'Desktops')] and  locatorType: xpath
+08/11/2019 05:37:01 PM - AppleOrder - INFO: Element found with locator: //a[contains(text(),'Show All Desktops')] and  locatorType: xpath
+08/11/2019 05:37:03 PM - AppleOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] and  locatorType: xpath
+08/11/2019 05:37:08 PM - AppleOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] locatorType: xpath
+08/11/2019 05:37:08 PM - AppleOrder - INFO: Element found with locator: //div[@id='input-option218']//div[2]//label[1] and  locatorType: xpath
+08/11/2019 05:37:08 PM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option218']//div[2]//label[1] locatorType: xpath
+08/11/2019 05:37:08 PM - AppleOrder - INFO: Element found with locator: //div[@id='input-option223']//div[2]//label[1] and  locatorType: xpath
+08/11/2019 05:37:08 PM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option223']//div[2]//label[1] locatorType: xpath
+08/11/2019 05:37:08 PM - AppleOrder - INFO: Element found with locator: input-option208 and  locatorType: id
+08/11/2019 05:37:09 PM - AppleOrder - INFO: Sent data on element with locator: input-option208 locatorType: id
+08/11/2019 05:37:09 PM - AppleOrder - INFO: Element found with locator: //select[@id='input-option217'] and  locatorType: xpath
+08/11/2019 05:37:09 PM - AppleOrder - INFO: Element found with locator: input-option209 and  locatorType: id
+08/11/2019 05:37:09 PM - AppleOrder - INFO: Sent data on element with locator: input-option209 locatorType: id
+08/11/2019 05:37:26 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/11/2019 05:37:26 PM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/11/2019 05:37:26 PM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/11/2019 05:37:27 PM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/11/2019 05:37:27 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/11/2019 05:37:27 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/11/2019 05:37:27 PM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/11/2019 05:37:27 PM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/11/2019 05:37:27 PM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/11/2019 05:37:27 PM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/11/2019 05:37:27 PM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/11/2019 05:37:29 PM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/11/2019 05:37:37 PM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+08/11/2019 05:37:37 PM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+08/11/2019 05:37:37 PM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+08/11/2019 05:37:38 PM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+08/11/2019 05:37:38 PM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+08/11/2019 05:37:38 PM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/11/2019 05:37:38 PM - DesktopOrder - INFO: Element appeared on the web page
+08/11/2019 05:37:38 PM - DesktopOrder - INFO: Element is displayed
+08/11/2019 05:37:38 PM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+08/11/2019 05:37:38 PM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+08/11/2019 05:37:38 PM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+08/11/2019 05:37:39 PM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+08/11/2019 05:37:39 PM - DesktopOrder - INFO: Cannot click on the element with locator: //span[@id='cart-total'] locatorType: xpath
+08/11/2019 05:37:39 PM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+08/11/2019 05:37:42 PM - DesktopOrder - INFO: Cannot click on the element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+08/11/2019 05:37:45 PM - DesktopOrder - INFO: Element not found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+08/11/2019 05:37:45 PM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+08/11/2019 05:37:48 PM - DesktopOrder - INFO: Element not found with locator: input-country and  locatorType: id
+08/11/2019 05:37:57 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/11/2019 05:37:57 PM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/11/2019 05:37:57 PM - LoginPage - INFO: Element not found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/11/2019 05:37:57 PM - LoginPage - INFO: Cannot click on the element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/11/2019 05:37:57 PM - LoginPage - INFO: Element not found with locator: input-email and  locatorType: id
+08/11/2019 05:38:03 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/11/2019 05:38:03 PM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/11/2019 05:38:03 PM - LoginPage - INFO: Element not found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/11/2019 05:38:03 PM - LoginPage - INFO: Cannot click on the element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/11/2019 05:38:03 PM - LoginPage - INFO: Element not found with locator: input-email and  locatorType: id
+08/13/2019 07:27:56 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/13/2019 07:27:56 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/13/2019 07:27:56 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/13/2019 07:27:57 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/13/2019 07:27:57 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/13/2019 07:27:57 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/13/2019 07:27:57 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/13/2019 07:27:58 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/13/2019 07:27:58 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/13/2019 07:27:58 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/13/2019 07:27:58 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/13/2019 07:28:00 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/13/2019 07:28:02 AM - AppleOrder - INFO: Element found with locator: //li[contains(@class,'dropdown')]/a[contains(text(),'Desktops')] and  locatorType: xpath
+08/13/2019 07:28:02 AM - AppleOrder - INFO: Element found with locator: //a[contains(text(),'Show All Desktops')] and  locatorType: xpath
+08/13/2019 07:28:06 AM - AppleOrder - INFO: Element not found with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] and  locatorType: xpath
+08/13/2019 07:28:06 AM - AppleOrder - INFO: Cannot click on the element with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] locatorType: xpath
+08/13/2019 07:28:09 AM - AppleOrder - INFO: Element not found with locator: //div[@id='input-option218']//div[2]//label[1] and  locatorType: xpath
+08/13/2019 07:28:09 AM - AppleOrder - INFO: Cannot click on the element with locator: //div[@id='input-option218']//div[2]//label[1] locatorType: xpath
+08/13/2019 07:28:12 AM - AppleOrder - INFO: Element not found with locator: //div[@id='input-option223']//div[2]//label[1] and  locatorType: xpath
+08/13/2019 07:28:12 AM - AppleOrder - INFO: Cannot click on the element with locator: //div[@id='input-option223']//div[2]//label[1] locatorType: xpath
+08/13/2019 07:28:15 AM - AppleOrder - INFO: Element not found with locator: input-option208 and  locatorType: id
+08/13/2019 07:28:15 AM - AppleOrder - INFO: Cannot send data on the element with locator: input-option208 locatorType: id
+08/13/2019 07:28:18 AM - AppleOrder - INFO: Element not found with locator: //select[@id='input-option217'] and  locatorType: xpath
+08/13/2019 07:28:31 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/13/2019 07:28:31 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/13/2019 07:28:31 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/13/2019 07:28:32 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/13/2019 07:28:32 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/13/2019 07:28:32 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/13/2019 07:28:33 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/13/2019 07:28:33 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/13/2019 07:28:33 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/13/2019 07:28:33 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/13/2019 07:28:33 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/13/2019 07:28:34 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/13/2019 07:28:43 AM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+08/13/2019 07:28:43 AM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+08/13/2019 07:28:43 AM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+08/13/2019 07:28:44 AM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+08/13/2019 07:28:44 AM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+08/13/2019 07:28:44 AM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/13/2019 07:28:45 AM - DesktopOrder - INFO: Element appeared on the web page
+08/13/2019 07:28:45 AM - DesktopOrder - INFO: Element is displayed
+08/13/2019 07:28:45 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+08/13/2019 07:28:45 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+08/13/2019 07:28:46 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+08/13/2019 07:28:46 AM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+08/13/2019 07:28:47 AM - DesktopOrder - INFO: Clicked on element with locator: //span[@id='cart-total'] locatorType: xpath
+08/13/2019 07:28:47 AM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+08/13/2019 07:28:47 AM - DesktopOrder - INFO: Clicked on element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+08/13/2019 07:28:47 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+08/13/2019 07:28:48 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+08/13/2019 07:28:48 AM - DesktopOrder - INFO: Element found with locator: input-country and  locatorType: id
+08/13/2019 07:28:48 AM - DesktopOrder - INFO: Element found with locator: input-zone and  locatorType: id
+08/13/2019 07:28:48 AM - DesktopOrder - INFO: Element found with locator: input-postcode and  locatorType: id
+08/13/2019 07:28:48 AM - DesktopOrder - INFO: Sent data on element with locator: input-postcode locatorType: id
+08/13/2019 07:28:48 AM - DesktopOrder - INFO: Element found with locator: button-quote and  locatorType: id
+08/13/2019 07:28:48 AM - DesktopOrder - INFO: Clicked on element with locator: button-quote locatorType: id
+08/13/2019 07:28:49 AM - DesktopOrder - INFO: Element found with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] and  locatorType: xpath
+08/13/2019 07:28:49 AM - DesktopOrder - INFO: Clicked on element with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] locatorType: xpath
+08/13/2019 07:28:49 AM - DesktopOrder - INFO: Element found with locator: button-shipping and  locatorType: id
+08/13/2019 07:28:49 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping locatorType: id
+08/13/2019 07:28:51 AM - DesktopOrder - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+08/13/2019 07:28:53 AM - DesktopOrder - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+08/13/2019 07:28:54 AM - DesktopOrder - INFO: Element found with locator: //div[3]//label[1]//input[1] and  locatorType: xpath
+08/13/2019 07:28:54 AM - DesktopOrder - INFO: Clicked on element with locator: //div[3]//label[1]//input[1] locatorType: xpath
+08/13/2019 07:28:54 AM - DesktopOrder - INFO: Element found with locator: input-payment-firstname and  locatorType: id
+08/13/2019 07:28:54 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-firstname locatorType: id
+08/13/2019 07:28:54 AM - DesktopOrder - INFO: Element found with locator: input-payment-lastname and  locatorType: id
+08/13/2019 07:28:54 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-lastname locatorType: id
+08/13/2019 07:28:54 AM - DesktopOrder - INFO: Element found with locator: input-payment-address-1 and  locatorType: id
+08/13/2019 07:28:55 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-address-1 locatorType: id
+08/13/2019 07:28:55 AM - DesktopOrder - INFO: Element found with locator: input-payment-city and  locatorType: id
+08/13/2019 07:28:55 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-city locatorType: id
+08/13/2019 07:28:55 AM - DesktopOrder - INFO: Element found with locator: input-payment-postcode and  locatorType: id
+08/13/2019 07:28:55 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-postcode locatorType: id
+08/13/2019 07:28:55 AM - DesktopOrder - INFO: Element found with locator: input-payment-country and  locatorType: id
+08/13/2019 07:28:55 AM - DesktopOrder - INFO: Element found with locator: input-payment-zone and  locatorType: id
+08/13/2019 07:28:56 AM - DesktopOrder - INFO: Element found with locator: //input[@id='button-payment-address'] and  locatorType: xpath
+08/13/2019 07:28:56 AM - DesktopOrder - INFO: Clicked on element with locator: //input[@id='button-payment-address'] locatorType: xpath
+08/13/2019 07:28:57 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+08/13/2019 07:28:57 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+08/13/2019 07:28:57 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+08/13/2019 07:28:57 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+08/13/2019 07:28:58 AM - DesktopOrder - INFO: Element found with locator: comment and  locatorType: name
+08/13/2019 07:28:58 AM - DesktopOrder - INFO: Clicked on element with locator: comment locatorType: name
+08/13/2019 07:28:58 AM - DesktopOrder - INFO: Element found with locator: button-shipping-method and  locatorType: id
+08/13/2019 07:28:59 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-method locatorType: id
+08/13/2019 07:28:59 AM - DesktopOrder - INFO: Element found with locator: agree and  locatorType: name
+08/13/2019 07:29:00 AM - DesktopOrder - INFO: Clicked on element with locator: agree locatorType: name
+08/13/2019 07:29:00 AM - DesktopOrder - INFO: Element found with locator: button-payment-method and  locatorType: id
+08/13/2019 07:29:00 AM - DesktopOrder - INFO: Clicked on element with locator: button-payment-method locatorType: id
+08/13/2019 07:29:01 AM - DesktopOrder - INFO: Element found with locator: button-confirm and  locatorType: id
+08/13/2019 07:29:01 AM - DesktopOrder - INFO: Clicked on element with locator: button-confirm locatorType: id
+08/13/2019 07:29:03 AM - Util - INFO: Actual Text From Application Web UI --> :: Checkout
+08/13/2019 07:29:03 AM - Util - INFO: Expected Text From Application Web UI --> :: Your order has been placed!
+08/13/2019 07:29:03 AM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+08/13/2019 07:29:03 AM - ResultStatus - ERROR: ### VERIFICATION FAILED :: + Order Verification
+08/13/2019 07:29:03 AM - ResultStatus - INFO: Screenshot save to directory: C:\Users\Abilash\PycharmProjects\Auto_Git\base\../screenshots/Order Verification.1565661543494.png
+08/13/2019 07:29:03 AM - ResultStatus - ERROR: Verifying the order placed successfully ### TEST FAILED
+08/13/2019 07:29:15 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/13/2019 07:29:15 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/13/2019 07:29:15 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/13/2019 07:29:16 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/13/2019 07:29:16 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/13/2019 07:29:16 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/13/2019 07:29:16 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/13/2019 07:29:16 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/13/2019 07:29:16 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/13/2019 07:29:17 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/13/2019 07:29:17 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/13/2019 07:29:18 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/13/2019 07:29:20 AM - RegisterAccount - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/13/2019 07:29:20 AM - RegisterAccount - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/13/2019 07:29:25 AM - RegisterAccount - INFO: Element not found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Register')] and  locatorType: xpath
+08/13/2019 07:29:25 AM - RegisterAccount - INFO: Cannot click on the element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Register')] locatorType: xpath
+08/13/2019 07:29:28 AM - RegisterAccount - INFO: Element not found with locator: input-firstname and  locatorType: id
+08/13/2019 07:29:28 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-firstname locatorType: id
+08/13/2019 07:29:31 AM - RegisterAccount - INFO: Element not found with locator: input-lastname and  locatorType: id
+08/13/2019 07:29:31 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-lastname locatorType: id
+08/13/2019 07:29:34 AM - RegisterAccount - INFO: Element not found with locator: input-email and  locatorType: id
+08/13/2019 07:29:34 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-email locatorType: id
+08/13/2019 07:29:37 AM - RegisterAccount - INFO: Element not found with locator: input-telephone and  locatorType: id
+08/13/2019 07:29:37 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-telephone locatorType: id
+08/13/2019 07:29:40 AM - RegisterAccount - INFO: Element not found with locator: input-password and  locatorType: id
+08/13/2019 07:29:40 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-password locatorType: id
+08/13/2019 07:29:44 AM - RegisterAccount - INFO: Element not found with locator: input-confirm and  locatorType: id
+08/13/2019 07:29:44 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-confirm locatorType: id
+08/13/2019 07:29:47 AM - RegisterAccount - INFO: Element not found with locator: //div[@class='form-group']//div[@class='col-sm-10']//label[1] and  locatorType: xpath
+08/13/2019 07:29:47 AM - RegisterAccount - INFO: Cannot click on the element with locator: //div[@class='form-group']//div[@class='col-sm-10']//label[1] locatorType: xpath
+08/13/2019 07:29:50 AM - RegisterAccount - INFO: Element not found with locator: agree and  locatorType: name
+08/13/2019 07:29:50 AM - RegisterAccount - INFO: Cannot click on the element with locator: agree locatorType: name
+08/13/2019 07:29:53 AM - RegisterAccount - INFO: Element not found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/13/2019 07:29:53 AM - RegisterAccount - INFO: Cannot click on the element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/13/2019 07:29:53 AM - RegisterAccount - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/13/2019 07:30:03 AM - RegisterAccount - INFO: Element not appeared on the web page
+08/13/2019 07:30:03 AM - RegisterAccount - INFO: Element not displayed
+08/13/2019 07:30:03 AM - ResultStatus - ERROR: ### VERIFICATION FAILED :: + Successfull
+08/13/2019 07:30:04 AM - ResultStatus - INFO: Screenshot save to directory: C:\Users\Abilash\PycharmProjects\Auto_Git\base\../screenshots/Successfull.1565661603793.png
+08/13/2019 07:30:04 AM - ResultStatus - ERROR: New Account Creation ### TEST FAILED
+08/13/2019 07:30:14 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/13/2019 07:30:14 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/13/2019 07:30:14 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/13/2019 07:30:15 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/13/2019 07:30:15 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/13/2019 07:30:15 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/13/2019 07:30:15 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/13/2019 07:30:15 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/13/2019 07:30:15 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/13/2019 07:30:15 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/13/2019 07:30:15 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/13/2019 07:30:17 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/13/2019 07:30:29 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/13/2019 07:30:29 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/13/2019 07:30:29 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/13/2019 07:30:30 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/13/2019 07:30:30 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/13/2019 07:30:30 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/13/2019 07:30:30 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/13/2019 07:30:31 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/13/2019 07:30:31 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/13/2019 07:30:31 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/13/2019 07:30:31 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/13/2019 07:30:32 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 12:02:36 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 12:02:36 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 12:02:36 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 12:02:37 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 12:02:37 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 12:02:37 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 12:02:37 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 12:02:38 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 12:02:38 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 12:02:38 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 12:02:38 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 12:02:41 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 12:02:43 AM - AppleOrder - INFO: Element found with locator: //li[contains(@class,'dropdown')]/a[contains(text(),'Desktops')] and  locatorType: xpath
+08/27/2019 12:02:43 AM - AppleOrder - INFO: Element found with locator: //a[contains(text(),'Show All Desktops')] and  locatorType: xpath
+08/27/2019 12:02:46 AM - AppleOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] and  locatorType: xpath
+08/27/2019 12:02:54 AM - AppleOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] locatorType: xpath
+08/27/2019 12:02:54 AM - AppleOrder - INFO: Element found with locator: //div[@id='input-option218']//div[2]//label[1] and  locatorType: xpath
+08/27/2019 12:02:54 AM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option218']//div[2]//label[1] locatorType: xpath
+08/27/2019 12:02:54 AM - AppleOrder - INFO: Element found with locator: //div[@id='input-option223']//div[2]//label[1] and  locatorType: xpath
+08/27/2019 12:02:54 AM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option223']//div[2]//label[1] locatorType: xpath
+08/27/2019 12:02:54 AM - AppleOrder - INFO: Element found with locator: input-option208 and  locatorType: id
+08/27/2019 12:02:54 AM - AppleOrder - INFO: Sent data on element with locator: input-option208 locatorType: id
+08/27/2019 12:02:54 AM - AppleOrder - INFO: Element found with locator: //select[@id='input-option217'] and  locatorType: xpath
+08/27/2019 12:02:55 AM - AppleOrder - INFO: Element found with locator: input-option209 and  locatorType: id
+08/27/2019 12:02:55 AM - AppleOrder - INFO: Sent data on element with locator: input-option209 locatorType: id
+08/27/2019 12:03:29 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 12:03:30 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 12:03:30 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 12:03:31 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 12:03:32 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 12:03:32 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 12:03:32 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 12:03:33 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 12:03:33 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 12:03:33 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 12:03:33 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 12:03:35 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 12:03:46 AM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+08/27/2019 12:03:46 AM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+08/27/2019 12:03:46 AM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+08/27/2019 12:03:48 AM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+08/27/2019 12:03:48 AM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+08/27/2019 12:03:48 AM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/27/2019 12:03:48 AM - DesktopOrder - INFO: Element appeared on the web page
+08/27/2019 12:03:48 AM - DesktopOrder - INFO: Element is displayed
+08/27/2019 12:03:48 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+08/27/2019 12:03:48 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+08/27/2019 12:03:50 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+08/27/2019 12:03:50 AM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+08/27/2019 12:03:50 AM - DesktopOrder - INFO: Clicked on element with locator: //span[@id='cart-total'] locatorType: xpath
+08/27/2019 12:03:50 AM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+08/27/2019 12:03:52 AM - DesktopOrder - INFO: Clicked on element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+08/27/2019 12:03:52 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+08/27/2019 12:03:52 AM - DesktopOrder - INFO: Clicked on element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+08/27/2019 12:03:52 AM - DesktopOrder - INFO: Element found with locator: input-country and  locatorType: id
+08/27/2019 12:03:53 AM - DesktopOrder - INFO: Element found with locator: input-zone and  locatorType: id
+08/27/2019 12:03:53 AM - DesktopOrder - INFO: Element found with locator: input-postcode and  locatorType: id
+08/27/2019 12:03:53 AM - DesktopOrder - INFO: Sent data on element with locator: input-postcode locatorType: id
+08/27/2019 12:03:53 AM - DesktopOrder - INFO: Element found with locator: button-quote and  locatorType: id
+08/27/2019 12:03:53 AM - DesktopOrder - INFO: Clicked on element with locator: button-quote locatorType: id
+08/27/2019 12:03:55 AM - DesktopOrder - INFO: Element found with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] and  locatorType: xpath
+08/27/2019 12:03:55 AM - DesktopOrder - INFO: Clicked on element with locator: //label[contains(text(),'Flat Shipping Rate - $5.00')] locatorType: xpath
+08/27/2019 12:03:55 AM - DesktopOrder - INFO: Element found with locator: button-shipping and  locatorType: id
+08/27/2019 12:03:55 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping locatorType: id
+08/27/2019 12:03:57 AM - DesktopOrder - INFO: Element found with locator: //a[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 12:03:59 AM - DesktopOrder - INFO: Clicked on element with locator: //a[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 12:04:00 AM - DesktopOrder - INFO: Element found with locator: //div[3]//label[1]//input[1] and  locatorType: xpath
+08/27/2019 12:04:00 AM - DesktopOrder - INFO: Clicked on element with locator: //div[3]//label[1]//input[1] locatorType: xpath
+08/27/2019 12:04:01 AM - DesktopOrder - INFO: Element found with locator: input-payment-firstname and  locatorType: id
+08/27/2019 12:04:01 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-firstname locatorType: id
+08/27/2019 12:04:01 AM - DesktopOrder - INFO: Element found with locator: input-payment-lastname and  locatorType: id
+08/27/2019 12:04:01 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-lastname locatorType: id
+08/27/2019 12:04:01 AM - DesktopOrder - INFO: Element found with locator: input-payment-address-1 and  locatorType: id
+08/27/2019 12:04:01 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-address-1 locatorType: id
+08/27/2019 12:04:01 AM - DesktopOrder - INFO: Element found with locator: input-payment-city and  locatorType: id
+08/27/2019 12:04:02 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-city locatorType: id
+08/27/2019 12:04:02 AM - DesktopOrder - INFO: Element found with locator: input-payment-postcode and  locatorType: id
+08/27/2019 12:04:02 AM - DesktopOrder - INFO: Sent data on element with locator: input-payment-postcode locatorType: id
+08/27/2019 12:04:02 AM - DesktopOrder - INFO: Element found with locator: input-payment-country and  locatorType: id
+08/27/2019 12:04:02 AM - DesktopOrder - INFO: Element found with locator: input-payment-zone and  locatorType: id
+08/27/2019 12:04:03 AM - DesktopOrder - INFO: Element found with locator: //input[@id='button-payment-address'] and  locatorType: xpath
+08/27/2019 12:04:03 AM - DesktopOrder - INFO: Clicked on element with locator: //input[@id='button-payment-address'] locatorType: xpath
+08/27/2019 12:04:04 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+08/27/2019 12:04:04 AM - DesktopOrder - INFO: Cannot click on the element with locator: button-shipping-address locatorType: id
+08/27/2019 12:04:05 AM - DesktopOrder - INFO: Element found with locator: button-shipping-address and  locatorType: id
+08/27/2019 12:04:05 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-address locatorType: id
+08/27/2019 12:04:06 AM - DesktopOrder - INFO: Element found with locator: comment and  locatorType: name
+08/27/2019 12:04:06 AM - DesktopOrder - INFO: Clicked on element with locator: comment locatorType: name
+08/27/2019 12:04:06 AM - DesktopOrder - INFO: Element found with locator: button-shipping-method and  locatorType: id
+08/27/2019 12:04:06 AM - DesktopOrder - INFO: Clicked on element with locator: button-shipping-method locatorType: id
+08/27/2019 12:04:08 AM - DesktopOrder - INFO: Element found with locator: agree and  locatorType: name
+08/27/2019 12:04:08 AM - DesktopOrder - INFO: Clicked on element with locator: agree locatorType: name
+08/27/2019 12:04:08 AM - DesktopOrder - INFO: Element found with locator: button-payment-method and  locatorType: id
+08/27/2019 12:04:08 AM - DesktopOrder - INFO: Clicked on element with locator: button-payment-method locatorType: id
+08/27/2019 12:04:09 AM - DesktopOrder - INFO: Element found with locator: button-confirm and  locatorType: id
+08/27/2019 12:04:10 AM - DesktopOrder - INFO: Clicked on element with locator: button-confirm locatorType: id
+08/27/2019 12:04:12 AM - Util - INFO: Actual Text From Application Web UI --> :: Your order has been placed!
+08/27/2019 12:04:12 AM - Util - INFO: Expected Text From Application Web UI --> :: Your order has been placed!
+08/27/2019 12:04:12 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/27/2019 12:04:12 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Order Verification
+08/27/2019 12:04:12 AM - ResultStatus - INFO: Verifying the order placed successfully ### TEST SUCCESSFUL
+08/27/2019 12:04:35 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 12:04:35 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 12:04:35 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 12:04:36 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 12:04:37 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 12:04:37 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 12:04:37 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 12:04:37 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 12:04:37 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 12:04:37 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 12:04:37 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 12:04:41 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 12:04:43 AM - RegisterAccount - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 12:04:43 AM - RegisterAccount - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 12:05:00 AM - RegisterAccount - INFO: Element not found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Register')] and  locatorType: xpath
+08/27/2019 12:05:00 AM - RegisterAccount - INFO: Cannot click on the element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Register')] locatorType: xpath
+08/27/2019 12:05:15 AM - RegisterAccount - INFO: Element not found with locator: input-firstname and  locatorType: id
+08/27/2019 12:05:15 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-firstname locatorType: id
+08/27/2019 12:05:30 AM - RegisterAccount - INFO: Element not found with locator: input-lastname and  locatorType: id
+08/27/2019 12:05:30 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-lastname locatorType: id
+08/27/2019 12:05:45 AM - RegisterAccount - INFO: Element not found with locator: input-email and  locatorType: id
+08/27/2019 12:05:45 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-email locatorType: id
+08/27/2019 12:06:00 AM - RegisterAccount - INFO: Element not found with locator: input-telephone and  locatorType: id
+08/27/2019 12:06:00 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-telephone locatorType: id
+08/27/2019 12:06:15 AM - RegisterAccount - INFO: Element not found with locator: input-password and  locatorType: id
+08/27/2019 12:06:15 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-password locatorType: id
+08/27/2019 12:06:40 AM - RegisterAccount - INFO: Element not found with locator: input-confirm and  locatorType: id
+08/27/2019 12:06:40 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-confirm locatorType: id
+08/27/2019 12:06:55 AM - RegisterAccount - INFO: Element not found with locator: //div[@class='form-group']//div[@class='col-sm-10']//label[1] and  locatorType: xpath
+08/27/2019 12:06:55 AM - RegisterAccount - INFO: Cannot click on the element with locator: //div[@class='form-group']//div[@class='col-sm-10']//label[1] locatorType: xpath
+08/27/2019 12:06:59 AM - RegisterAccount - INFO: Element found with locator: agree and  locatorType: name
+08/27/2019 12:06:59 AM - RegisterAccount - INFO: Cannot click on the element with locator: agree locatorType: name
+08/27/2019 12:06:59 AM - RegisterAccount - INFO: Element not found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 12:06:59 AM - RegisterAccount - INFO: Cannot click on the element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 12:06:59 AM - RegisterAccount - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/27/2019 12:06:59 AM - RegisterAccount - INFO: Element not appeared on the web page
+08/27/2019 12:06:59 AM - RegisterAccount - INFO: Element not displayed
+08/27/2019 12:06:59 AM - ResultStatus - ERROR: ### VERIFICATION FAILED :: + Successfull
+08/27/2019 12:06:59 AM - ResultStatus - ERROR: ### Exception Occurred when taking screenshot
+08/27/2019 12:06:59 AM - ResultStatus - ERROR: New Account Creation ### TEST FAILED
+08/27/2019 12:07:45 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 12:07:45 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 12:08:00 AM - LoginPage - INFO: Element not found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 12:08:00 AM - LoginPage - INFO: Cannot click on the element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 12:08:15 AM - LoginPage - INFO: Element not found with locator: input-email and  locatorType: id
+08/27/2019 12:08:37 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 12:08:37 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 12:08:37 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 12:08:38 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 12:08:38 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 12:08:39 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 12:08:39 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 12:08:39 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 12:08:39 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 12:08:39 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 12:08:39 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 12:08:44 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 01:38:25 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 01:38:25 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 01:38:26 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 01:38:26 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 01:38:26 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:38:26 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:38:27 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:38:27 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 01:38:27 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:38:27 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 01:38:27 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 01:38:28 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 01:38:30 AM - AppleOrder - INFO: Element found with locator: //li[contains(@class,'dropdown')]/a[contains(text(),'Desktops')] and  locatorType: xpath
+08/27/2019 01:38:31 AM - AppleOrder - INFO: Element found with locator: //a[contains(text(),'Show All Desktops')] and  locatorType: xpath
+08/27/2019 01:38:34 AM - AppleOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] and  locatorType: xpath
+08/27/2019 01:38:39 AM - AppleOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] locatorType: xpath
+08/27/2019 01:38:39 AM - AppleOrder - INFO: Element found with locator: //div[@id='input-option218']//div[2]//label[1] and  locatorType: xpath
+08/27/2019 01:38:40 AM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option218']//div[2]//label[1] locatorType: xpath
+08/27/2019 01:38:40 AM - AppleOrder - INFO: Element found with locator: //div[@id='input-option223']//div[2]//label[1] and  locatorType: xpath
+08/27/2019 01:38:40 AM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option223']//div[2]//label[1] locatorType: xpath
+08/27/2019 01:38:40 AM - AppleOrder - INFO: Element found with locator: input-option208 and  locatorType: id
+08/27/2019 01:38:40 AM - AppleOrder - INFO: Sent data on element with locator: input-option208 locatorType: id
+08/27/2019 01:38:40 AM - AppleOrder - INFO: Element found with locator: //select[@id='input-option217'] and  locatorType: xpath
+08/27/2019 01:38:40 AM - AppleOrder - INFO: Element found with locator: input-option209 and  locatorType: id
+08/27/2019 01:38:41 AM - AppleOrder - INFO: Sent data on element with locator: input-option209 locatorType: id
+08/27/2019 01:39:01 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 01:39:01 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 01:39:01 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 01:39:02 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 01:39:02 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:39:02 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:39:02 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:39:03 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 01:39:03 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:39:03 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 01:39:03 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 01:39:04 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 01:39:13 AM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+08/27/2019 01:39:13 AM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+08/27/2019 01:39:13 AM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+08/27/2019 01:39:14 AM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+08/27/2019 01:39:14 AM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+08/27/2019 01:39:14 AM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/27/2019 01:39:14 AM - DesktopOrder - INFO: Element appeared on the web page
+08/27/2019 01:39:14 AM - DesktopOrder - INFO: Element is displayed
+08/27/2019 01:39:14 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+08/27/2019 01:39:15 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+08/27/2019 01:39:15 AM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+08/27/2019 01:39:15 AM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+08/27/2019 01:39:15 AM - DesktopOrder - INFO: Cannot click on the element with locator: //span[@id='cart-total'] locatorType: xpath
+08/27/2019 01:39:15 AM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+08/27/2019 01:39:30 AM - DesktopOrder - INFO: Cannot click on the element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+08/27/2019 01:39:45 AM - DesktopOrder - INFO: Element not found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+08/27/2019 01:39:45 AM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+08/27/2019 01:40:00 AM - DesktopOrder - INFO: Element not found with locator: input-country and  locatorType: id
+08/27/2019 01:40:11 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 01:40:11 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 01:40:11 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 01:40:12 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 01:40:12 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:40:12 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:40:12 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:40:13 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 01:40:13 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:40:13 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 01:40:13 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 01:40:14 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 01:40:16 AM - RegisterAccount - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 01:40:16 AM - RegisterAccount - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 01:40:33 AM - RegisterAccount - INFO: Element not found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Register')] and  locatorType: xpath
+08/27/2019 01:40:33 AM - RegisterAccount - INFO: Cannot click on the element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Register')] locatorType: xpath
+08/27/2019 01:40:48 AM - RegisterAccount - INFO: Element not found with locator: input-firstname and  locatorType: id
+08/27/2019 01:40:48 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-firstname locatorType: id
+08/27/2019 01:41:03 AM - RegisterAccount - INFO: Element not found with locator: input-lastname and  locatorType: id
+08/27/2019 01:41:03 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-lastname locatorType: id
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-email locatorType: id
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Element not found with locator: input-telephone and  locatorType: id
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-telephone locatorType: id
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Element not found with locator: input-password and  locatorType: id
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-password locatorType: id
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Element not found with locator: input-confirm and  locatorType: id
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-confirm locatorType: id
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Element not found with locator: //div[@class='form-group']//div[@class='col-sm-10']//label[1] and  locatorType: xpath
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Cannot click on the element with locator: //div[@class='form-group']//div[@class='col-sm-10']//label[1] locatorType: xpath
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Element not found with locator: agree and  locatorType: name
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Cannot click on the element with locator: agree locatorType: name
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Element not found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Cannot click on the element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Element not appeared on the web page
+08/27/2019 01:41:07 AM - RegisterAccount - INFO: Element not displayed
+08/27/2019 01:41:07 AM - ResultStatus - ERROR: ### VERIFICATION FAILED :: + Successfull
+08/27/2019 01:41:07 AM - ResultStatus - ERROR: ### Exception Occurred when taking screenshot
+08/27/2019 01:41:07 AM - ResultStatus - ERROR: New Account Creation ### TEST FAILED
+08/27/2019 01:41:18 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 01:41:18 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 01:41:18 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 01:41:18 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 01:41:18 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:41:19 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:41:19 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:41:19 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 01:41:19 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:41:19 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 01:41:19 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 01:41:20 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 01:41:33 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 01:41:34 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 01:41:34 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 01:41:34 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 01:41:34 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:41:34 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:41:35 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:41:35 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 01:41:35 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:41:35 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 01:41:35 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 01:41:36 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 01:54:01 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 01:54:01 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 01:54:01 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 01:54:02 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 01:54:02 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:54:02 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:54:02 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:54:03 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 01:54:03 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:54:03 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 01:54:03 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 01:54:04 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 01:54:06 AM - AppleOrder - INFO: Element found with locator: //li[contains(@class,'dropdown')]/a[contains(text(),'Desktops')] and  locatorType: xpath
+08/27/2019 01:54:07 AM - AppleOrder - INFO: Element found with locator: //a[contains(text(),'Show All Desktops')] and  locatorType: xpath
+08/27/2019 01:54:09 AM - AppleOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] and  locatorType: xpath
+08/27/2019 01:54:14 AM - AppleOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[1]//a[1]//img[1] locatorType: xpath
+08/27/2019 01:54:14 AM - AppleOrder - INFO: Element found with locator: //div[@id='input-option218']//div[2]//label[1] and  locatorType: xpath
+08/27/2019 01:54:15 AM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option218']//div[2]//label[1] locatorType: xpath
+08/27/2019 01:54:15 AM - AppleOrder - INFO: Element found with locator: //div[@id='input-option223']//div[2]//label[1] and  locatorType: xpath
+08/27/2019 01:54:15 AM - AppleOrder - INFO: Clicked on element with locator: //div[@id='input-option223']//div[2]//label[1] locatorType: xpath
+08/27/2019 01:54:15 AM - AppleOrder - INFO: Element found with locator: input-option208 and  locatorType: id
+08/27/2019 01:54:15 AM - AppleOrder - INFO: Sent data on element with locator: input-option208 locatorType: id
+08/27/2019 01:54:15 AM - AppleOrder - INFO: Element found with locator: //select[@id='input-option217'] and  locatorType: xpath
+08/27/2019 01:54:15 AM - AppleOrder - INFO: Element found with locator: input-option209 and  locatorType: id
+08/27/2019 01:54:16 AM - AppleOrder - INFO: Sent data on element with locator: input-option209 locatorType: id
+08/27/2019 01:54:34 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 01:54:35 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 01:54:35 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 01:54:36 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 01:54:36 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:54:36 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:54:36 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:54:36 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 01:54:36 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:54:36 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 01:54:36 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 01:54:38 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 01:54:47 AM - DesktopOrder - INFO: Element found with locator: list-view and  locatorType: id
+08/27/2019 01:54:47 AM - DesktopOrder - INFO: Clicked on element with locator: list-view locatorType: id
+08/27/2019 01:54:47 AM - DesktopOrder - INFO: Element found with locator: input-sort and  locatorType: id
+08/27/2019 01:54:48 AM - DesktopOrder - INFO: Element found with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] and  locatorType: xpath
+08/27/2019 01:54:48 AM - DesktopOrder - INFO: Clicked on element with locator: //div[@id='content']//div[1]//div[1]//div[2]//div[2]//button[1] locatorType: xpath
+08/27/2019 01:54:48 AM - DesktopOrder - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/27/2019 01:54:49 AM - DesktopOrder - INFO: Element appeared on the web page
+08/27/2019 01:54:49 AM - DesktopOrder - INFO: Element is displayed
+08/27/2019 01:54:49 AM - ResultStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Added to cart
+08/27/2019 01:54:49 AM - DesktopOrder - INFO: Element found with locator: //a[contains(text(),'The Ninja Store')] and  locatorType: xpath
+08/27/2019 01:54:49 AM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'The Ninja Store')] locatorType: xpath
+08/27/2019 01:54:49 AM - DesktopOrder - INFO: Element found with locator: //span[@id='cart-total'] and  locatorType: xpath
+08/27/2019 01:54:49 AM - DesktopOrder - INFO: Cannot click on the element with locator: //span[@id='cart-total'] locatorType: xpath
+08/27/2019 01:54:49 AM - DesktopOrder - INFO: Element found with locator: //strong[contains(text(),'View Cart')] and  locatorType: xpath
+08/27/2019 01:54:49 AM - DesktopOrder - INFO: Cannot click on the element with locator: //strong[contains(text(),'View Cart')] locatorType: xpath
+08/27/2019 01:55:04 AM - DesktopOrder - INFO: Element not found with locator: //a[contains(text(),'Estimate Shipping & Taxes')] and  locatorType: xpath
+08/27/2019 01:55:04 AM - DesktopOrder - INFO: Cannot click on the element with locator: //a[contains(text(),'Estimate Shipping & Taxes')] locatorType: xpath
+08/27/2019 01:55:19 AM - DesktopOrder - INFO: Element not found with locator: input-country and  locatorType: id
+08/27/2019 01:55:32 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 01:55:32 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 01:55:32 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 01:55:33 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 01:55:33 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:55:33 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:55:33 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:55:33 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 01:55:33 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:55:33 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 01:55:33 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 01:55:35 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 01:55:37 AM - RegisterAccount - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 01:55:37 AM - RegisterAccount - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 01:55:39 AM - RegisterAccount - INFO: Element found with locator: //span[text()='My Account'] and  locatorType: xpath
+08/27/2019 01:55:39 AM - RegisterAccount - INFO: Clicked on element with locator: //span[text()='My Account'] locatorType: xpath
+08/27/2019 01:55:54 AM - RegisterAccount - INFO: Element not found with locator: input-firstname and  locatorType: id
+08/27/2019 01:55:54 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-firstname locatorType: id
+08/27/2019 01:56:09 AM - RegisterAccount - INFO: Element not found with locator: input-lastname and  locatorType: id
+08/27/2019 01:56:09 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-lastname locatorType: id
+08/27/2019 01:56:24 AM - RegisterAccount - INFO: Element not found with locator: input-email and  locatorType: id
+08/27/2019 01:56:24 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-email locatorType: id
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Element found with locator: input-telephone and  locatorType: id
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-telephone locatorType: id
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Element not found with locator: input-password and  locatorType: id
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-password locatorType: id
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Element not found with locator: input-confirm and  locatorType: id
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Cannot send data on the element with locator: input-confirm locatorType: id
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Element not found with locator: //div[@class='form-group']//div[@class='col-sm-10']//label[1] and  locatorType: xpath
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Cannot click on the element with locator: //div[@class='form-group']//div[@class='col-sm-10']//label[1] locatorType: xpath
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Element not found with locator: agree and  locatorType: name
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Cannot click on the element with locator: agree locatorType: name
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Element not found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Cannot click on the element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Element not appeared on the web page
+08/27/2019 01:56:31 AM - RegisterAccount - INFO: Element not displayed
+08/27/2019 01:56:31 AM - ResultStatus - ERROR: ### VERIFICATION FAILED :: + Successfull
+08/27/2019 01:56:31 AM - ResultStatus - ERROR: ### Exception Occurred when taking screenshot
+08/27/2019 01:56:31 AM - ResultStatus - ERROR: New Account Creation ### TEST FAILED
+08/27/2019 01:56:42 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 01:56:43 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 01:56:43 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 01:56:43 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 01:56:43 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:56:43 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:56:44 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:56:44 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 01:56:44 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:56:44 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 01:56:44 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 01:56:45 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath
+08/27/2019 01:56:59 AM - LoginPage - INFO: Element found with locator: //span[contains(text(),'My Account')] and  locatorType: xpath
+08/27/2019 01:56:59 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(),'My Account')] locatorType: xpath
+08/27/2019 01:56:59 AM - LoginPage - INFO: Element found with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] and  locatorType: xpath
+08/27/2019 01:57:00 AM - LoginPage - INFO: Clicked on element with locator: //ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Login')] locatorType: xpath
+08/27/2019 01:57:00 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:57:00 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:57:00 AM - LoginPage - INFO: Element found with locator: input-email and  locatorType: id
+08/27/2019 01:57:01 AM - LoginPage - INFO: Sent data on element with locator: input-email locatorType: id
+08/27/2019 01:57:01 AM - LoginPage - INFO: Element found with locator: input-password and  locatorType: id
+08/27/2019 01:57:01 AM - LoginPage - INFO: Sent data on element with locator: input-password locatorType: id
+08/27/2019 01:57:01 AM - LoginPage - INFO: Element found with locator: //input[@class='btn btn-primary'] and  locatorType: xpath
+08/27/2019 01:57:02 AM - LoginPage - INFO: Clicked on element with locator: //input[@class='btn btn-primary'] locatorType: xpath

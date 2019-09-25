@@ -12,7 +12,7 @@ class RegisterAccount(BasePage):
 
     # locators
     _myAccounticon = "//span[contains(text(),'My Account')]"
-    _register = "//ul[@class='dropdown-menu dropdown-menu-right']//a[contains(text(),'Register')]"
+    _register = "//span[text()='My Account']"
 
     # _register = "[class='dropdown-menu dropdown-menu-right']>li:first-child"
     _firstname = "input-firstname"

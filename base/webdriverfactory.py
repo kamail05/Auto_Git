@@ -53,9 +53,11 @@ class WebDriverFactory():
             driver.maximize_window()
             # driver.set_window_size(1440, 900)
         else:
-            driver = webdriver.Firefox()
+            # driver = webdriver.Firefox()
+            chromedriver = "D:/workspace selenium/libs/chromedriver.exe"
+            driver = webdriver.Chrome(executable_path=chromedriver)
         # Setting Driver Implicit Time out for An Element
-        driver.implicitly_wait(3)
+        driver.implicitly_wait(15)
         # Maximize the window
         driver.maximize_window()
         # Loading browser with App URL

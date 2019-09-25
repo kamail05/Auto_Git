@@ -13,9 +13,7 @@ class DesktopOrderTest(unittest.TestCase):
         self.dtop = DesktopOrder(self.driver)
         self.rs = ResultStatus(self.driver)
 
-    # @pytest.mark.run(order=1)
-    # @data(*getCSVData("/Users/Abilash/PycharmProjects/AT/sonyorderdata.csv"))
-    @data(*readAndWrite("/Users/Abilash/PycharmProjects/AT/sonyorderdata.csv"))
+    @data(*getCSVData("/Users/Abilash/PycharmProjects/AT/sonyorderdata.csv"))
     @unpack
     def test_desktop(self,FirstName,LastName,Address1,City,Postalcode):
         self.dtop.orderDesktop()
